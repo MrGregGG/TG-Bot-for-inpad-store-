@@ -1,4 +1,8 @@
-# Проект: Создание телеграм бота с GigaChat / ChatGPT
+<h1 align="center">
+  <br>
+  Создание телеграм бота с GigaChat / ChatGPT
+  <br>
+</h1>
 
 ## О проекте
 **Краткое название:** Создание телеграм бота с GigaChat / ChatGPT  
